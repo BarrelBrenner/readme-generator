@@ -8,4 +8,6 @@ Then, it will give you a list of prompts to answer as you wish, followed by the 
 
 A walk-through video of application is linked here -- https://drive.google.com/file/d/1zQbR75F_XBwN733KGSzEifsxQg8kSKfe/view
 
+A demo README is located in the SampleExample folder
+
 Thank you for your time & take care
